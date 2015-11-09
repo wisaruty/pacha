@@ -1,0 +1,16 @@
+<template name="ApplicationLayout">
+  <header>
+    {{> Header}}
+  </header>
+
+  <article>
+    <div class="container">
+    {{> yield}}
+    </div>
+  </article>
+
+  <footer>
+    {{> yield "footer"}}
+  </footer>
+</template>
+
