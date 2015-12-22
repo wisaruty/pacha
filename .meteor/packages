@@ -22,3 +22,8 @@ spacebars
 check
 iron:router
 twbs:bootstrap
+accounts-password
+ian:accounts-ui-bootstrap-3
+cfs:standard-packages
+cfs:gridfs
+cfs:filesystem
